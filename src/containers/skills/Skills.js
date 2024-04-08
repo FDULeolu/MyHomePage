@@ -62,7 +62,7 @@ export default function About(props) {
                   trying to do some interesting research guided by{" "}
                   <a
                     style={{ color: theme.secondaryText }}
-                    href="www.tengjiaye.com"
+                    href="https://www.tengjiaye.com/"
                   >
                     {" "}
                     Jiaye Teng
