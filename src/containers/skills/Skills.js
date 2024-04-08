@@ -52,14 +52,14 @@ export default function About(props) {
                 style={{ color: theme.secondaryText }}
               >
                 <p>
-                  Hi! I'm Yizhou Lu, a undergraduate student at the Department
+                  Hi! I'm Yizhou Lu, an undergraduate student at the Department
                   of Statistics and Data Science, School of Management, Fudan
                   University.
                 </p>
                 <p>
                   I'm interested in Machine Learning Theory. Recently I'm
-                  learning Theory of Generalization and trying to do some
-                  interesting research guided by{" "}
+                  learning Theory of Generalization and Conformal Prediction and
+                  trying to do some interesting research guided by{" "}
                   <a
                     style={{ color: theme.secondaryText }}
                     href="www.tengjiaye.com"
