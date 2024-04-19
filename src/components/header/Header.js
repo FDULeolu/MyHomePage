@@ -49,16 +49,15 @@ class Header extends Component {
                 </NavLink>
               </li>
               <li>
-                <NavLink
-                  to="/MyArxiv/"
-                  tag={Link}
+                <a
+                  href="https://fduleolu.github.io/MyArxiv/"
                   activeStyle={{ fontWeight: "bold" }}
                   style={{ color: theme.text }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
                   MyArXiv
-                </NavLink>
+                </a>
               </li>
               {/* <li>
                 <NavLink
