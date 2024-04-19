@@ -58,8 +58,8 @@ export default function About(props) {
                 </p>
                 <p>
                   I'm interested in Machine Learning Theory. Recently I'm
-                  learning Theory of Generalization and Conformal Prediction and
-                  trying to do some interesting research guided by{" "}
+                  learning someting about ICL(In-Context Learning) and trying to
+                  do some interesting research guided by{" "}
                   <a
                     style={{ color: theme.secondaryText }}
                     href="https://www.tengjiaye.com/"
